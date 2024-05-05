@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+    font-family: Courier, sans-serif;
+    padding-bottom: 50px;
+}
+
+.container {
+    width: 90%;
+    margin-left: 3%;
+}
+
+
+.contenidoLogin 
+{
+    margin: 5% 0 0 40%;
+}
+.contenidoCliente
+{
+    margin: 5% 0 0 18%;
+}
+.contenidoDirector
+{
+    margin: 5% 0 0 18%;
+    height: auto;
+}
+.contenidoCajero
+{
+    margin: 5% 0 0 18%;
+    height: auto;
+}
+
+.contenidoAsesor
+{
+    margin: 5% 0 0 18%;
+    height: auto;
+}
+
+.trans
+{
+    margin: 5% 0 0 18%;
+}
+
+
+
+
+.tabla
+{
+    margin: 1% 0 0 20%;
+}
+.formo
+{
+    margin: 10% 0 0 35%;
+    font-size: 23px;
+}
+.formo input
+{
+    margin-bottom: 1%;
+    font-size: 15px;
+}
+
+a
+{
+    color: #555b51;
+}
+table
+{
+    width: 80%;
+    border: 3px solid #aab3a4;
+}
+
+th, td {
+    border: 1px solid #d5e2cd;
+    padding: 8px; 
+    text-align: left; 
+}
+
+header {
+    background-color: #d5e2cd;
+    color: #000000;
+    padding: 10px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #d5e2cd;
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed; 
+    bottom: 0; 
+    width: 100%; 
+}
